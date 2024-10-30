@@ -23,7 +23,7 @@ Unahitaki kuongeza kwenye `nuru.toml` chini ya `inatumia` jina ya maktaba.
 Kwa mfano:
 
 ```toml
-[inatumia]
+[inatengemea]
 maktaba_yangu = {mahali = "mahali_kwenye_intaneti_inapopatikana", toleo = "toleo_unayotaka"}
 ```
 
