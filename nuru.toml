@@ -1,0 +1,9 @@
+[pakeji]
+jina = "jaribu"
+mahali = "https://github.com/gekkowrld/jaribu"
+fafanuo = "Hii ni jaribio la kuona venye pakeji za nuru zitakavyo andikwa. Hii inaweza badilika wakati wowote"
+leseni = "MIT" # As permissive as possible
+
+[inategemea]
+# Hii haipo lakini nitaiweka hapa kuonyesha kuitumia
+feki = {mahali = "git+https://github.com/gekkowrld/feki", toleo = "0.0.1"}
